@@ -1,7 +1,8 @@
 ### ✨Welcome to Yoda's Page✨
 
-
-
+🔭 I’m currently learning about PROGRAMMING!
+📫 How to reach me: @yoda._.0 on Instagram!
+⚡ Fun fact: I like eating TTEOKBOKKI!
 
 <!--
 **Yodayeong/Yodayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
