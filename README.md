@@ -4,7 +4,7 @@
 
 🔭 I’m currently learning about PROGRAMMING!
 
-📫 How to reach me: @yoda._.0 on Instagram!
+📫 How to reach me: **@yoda._.0** on Instagram!
 
 ⚡ Fun fact: I like eating TTEOKBOKKI!
 
