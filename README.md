@@ -1,13 +1,13 @@
-### ✨Welcome to Yoda's Page✨
+# ✨Welcome to Yoda's Page✨
 
 ![KakaoTalk_20220707_165129746](https://user-images.githubusercontent.com/87405998/177721244-fe6a37b2-9dac-47e4-b604-0ebd3ea06746.jpg)
 
 
-🔭 I’m currently learning about PROGRAMMING!
+🔭 I’m currently learning about **PROGRAMMING**!
 
 📫 How to reach me: **@yoda._.0** on Instagram!
 
-⚡ Fun fact: I like eating TTEOKBOKKI!
+⚡ Fun fact: I like eating **TTEOKBOKKI**!
 
 <!--
 **Yodayeong/Yodayeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
