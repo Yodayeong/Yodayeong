@@ -1,5 +1,4 @@
 # ✨Welcome to Yoda's Page✨
-d
 
 ![KakaoTalk_20220707_165129746](https://user-images.githubusercontent.com/87405998/177721244-fe6a37b2-9dac-47e4-b604-0ebd3ea06746.jpg)
 
